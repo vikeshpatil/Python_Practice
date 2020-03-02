@@ -1,0 +1,10 @@
+body{
+    background: aqua;
+    font-size: 18px;
+    color: #333;
+}
+ul li{
+    float: right;
+    display: block;
+    margin: 20px;
+}
